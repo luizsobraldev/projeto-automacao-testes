@@ -241,4 +241,3 @@ A suíte principal foi executada localmente obtendo aprovação integral de todo
 ## Autor
 
 **Luiz Eduardo Sobral**
-**Diego Ximenes**
